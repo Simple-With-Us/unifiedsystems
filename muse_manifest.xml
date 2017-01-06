@@ -1,0 +1,133 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://184.173.58.56" ftp_rootfolder="//UnifiedSystems-io\httpdocs\UniSys" exportTarget="FTP" domain="unifiedsystems.io" resolutions="1x,2x" timestamp="1474327970650">
+  <folder name="css">
+    <file name="site_global.css" crc="187263948"/>
+    <file name="master_menu-standard.css" crc="4167010173" ref="index"/>
+    <file name="index.css" crc="3815045878" ref="index"/>
+    <file name="iefonts_index.css" crc="3777198524" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:tablet>index:index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="globe_logo1163x52.png" crc="382842440" seo="true" ref="phone>index"/>
+    <file name="globe_logo1163x52_2x.png" crc="217307362" seo="true" ref="phone>index"/>
+    <file name="autotext_logo_clear165x53.png" crc="33829746" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_attendant40x40.png" crc="486074102" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_attendant40x40_2x.png" crc="4077565514" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_flows40x40.png" crc="45578135" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_flows40x40_2x.png" crc="459391259" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_record40x40.png" crc="4164735518" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_record40x40_2x.png" crc="217642509" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_notify40x40.png" crc="405852260" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_notify40x40_2x.png" crc="4180466374" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_byod40x40.png" crc="183506486" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_byod40x40_2x.png" crc="335989086" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_messaging40x40.png" crc="3887518105" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_messaging40x40_2x.png" crc="3945767848" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_conference40x40.png" crc="298338131" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_conference40x40_2x.png" crc="36014934" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_secure.png" crc="3868512163" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_secure_2x.png" crc="3946988392" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_chart40x40.png" crc="68146742" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_chart40x40_2x.png" crc="3825907606" seo="true" ref="phone>index"/>
+    <file name="autotext_icon_byo2.png" crc="4205369116" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_byo2_2x.png" crc="3867019862" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_flow2.png" crc="4156209750" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_flow2_2x.png" crc="3817291338" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_mone2.png" crc="4207871617" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_mone2_2x.png" crc="63190251" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_recor2.png" crc="3890742583" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_recor2_2x.png" crc="277134960" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_contacts2.png" crc="356467937" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_contacts2_2x.png" crc="3982659426" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_h2.png" crc="138226236" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_h2_2x.png" crc="4102805481" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_integrate2.png" crc="49175492" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_integrate2_2x.png" crc="400106813" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_vm2.png" crc="4212409343" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_vm2_2x.png" crc="228613947" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_conferenc2.png" crc="4169536336" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_conferenc2_2x.png" crc="3819891306" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_clou2.png" crc="3917097160" seo="true" ref="phone>index:index"/>
+    <file name="autotext_icon_clou2_2x.png" crc="3850969109" seo="true" ref="phone>index:index"/>
+    <file name="hammond pic.jpg" crc="4260485054" seo="true" ref="phone>index:index"/>
+    <file name="hammond pic_2x.jpg" crc="291084383" seo="true" ref="phone>index:index"/>
+    <file name="wedgeworth2.jpg" crc="3892979076" seo="true" ref="phone>index"/>
+    <file name="wedgeworth2_2x.jpg" crc="3762625168" seo="true" ref="phone>index"/>
+    <file name="globe_logo1.png" crc="4259553212" seo="true" ref="index"/>
+    <file name="globe_logo1_2x.png" crc="312876992" seo="true" ref="index"/>
+    <file name="autotext_logo_clear179x58.png" crc="33829746" seo="true" ref="index"/>
+    <file name="autotext_iphone.png" crc="3971150643" seo="true" ref="index"/>
+    <file name="autotext_iphone_2x.png" crc="414986785" seo="true" ref="index"/>
+    <file name="oldphone11.png" crc="136518834" seo="true" ref="index"/>
+    <file name="oldphone11_2x.png" crc="311676219" seo="true" ref="index"/>
+    <file name="rollover-u56214-fr.png" crc="3924208275" ref="index"/>
+    <file name="rollover-ieu56214-fr.png" crc="184993120" ref="index"/>
+    <file name="rollover-u56214-fr_2x.png" crc="4173396223" ref="index"/>
+    <file name="rollover-ieu56214-fr2.png" crc="235995519" ref="index"/>
+    <file name="wedgeworth2-u56214-fr.jpg" crc="3798182382" ref="index"/>
+    <file name="wedgeworth2-u56214-fr_2x.jpg" crc="475829266" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4041054186" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4200254997" seo="true" mt="1474322260572" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_menu-standard.css" crc="356315350" ref="phone>index"/>
+      <file name="index.css" crc="28354954" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="239280051" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4172735697" seo="true" mt="1474321949901" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="306037115" seo="true" mt="1474322288635" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U1494" master="U44688">
+        <breakpoint uid="U47150" maxwidth="1400" minwidth="0" squishy="false"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U1489:U22548" includeInBPs="U47150"/>
+      </page>
+      <masterPage name="Menu Standard" master="U55" uid="U44688">
+        <breakpoint uid="U47224" maxwidth="1400" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U47240" maxwidth="1400" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+    <rendition device="tablet">
+      <page name="Home" filename="index.html" muse_href="page:U35092" master="U35063">
+        <breakpoint uid="U47264" maxwidth="768" minwidth="0" squishy="false"/>
+        <anchor name="Home_1" html_id="home_1" muse_href="anchor:U35077:U37733" includeInBPs="U47264"/>
+      </page>
+      <masterPage name="Menu Demo" master="U35049" uid="U35063">
+        <breakpoint uid="U47265" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U35049">
+        <breakpoint uid="U47194" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+    <rendition device="phone">
+      <page name="Home" filename="index.html" muse_href="page:U38174" master="U45081">
+        <breakpoint uid="U47204" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Home_1" html_id="home_1" muse_href="anchor:U38159:U39055" includeInBPs="U47204"/>
+      </page>
+      <masterPage name="Menu Standard" master="U38131" uid="U45081">
+        <breakpoint uid="U47241" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U38131">
+        <breakpoint uid="U47182" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
